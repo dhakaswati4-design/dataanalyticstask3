@@ -23,3 +23,7 @@ Open `index.html` locally or enable GitHub Pages for the repository to create a 
 
 ### Note
 The ApexPlanet brief asks for a BI-tool dashboard and live dashboard link. The HTML dashboard is interactive and ready to host, but it is not a Power BI `.pbix` file. A Power BI live link requires the user's own Power BI account/workspace.
+
+### Interactive Dashboard
+[View Live Dasboard]
+https://dhakaswati4-design.github.io/dataanalyticstask3/
